@@ -1,2 +1,2 @@
 # Blog-coded
-htmln document root folder for virtual host file blog-code
+htmln document root folder contents for virtual host file blog-code
