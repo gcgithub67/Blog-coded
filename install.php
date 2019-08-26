@@ -103,7 +103,7 @@ if (isset($_SESSION['try-install']))
 
         <?php else: ?>
 
-            <p>Click the install button to reset the database.</p>
+            <p>Click the install button to reset the database. <?php echo getRootPath() ?> </p>
 
             <form method="post">
                 <input
